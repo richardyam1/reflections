@@ -1,0 +1,3 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A: It creates a structure where you can store your commits for the files you're working on.  Doing this would allow us to manage files for different projects.  
