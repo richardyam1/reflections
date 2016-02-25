@@ -7,3 +7,10 @@ people or you want to ask for help.
 Q:Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 A: So that Git doesn't update it when your code isn't ready to be presented yet.  
+
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A: Branches saves changes in the local repository while both forks and clones copys the files to another location.  Forking is only used by GitHub while you can clone using any command line program.  
+
+You would use branching when you want to work on feature for a code without modifying the master branch.  You use clone when you wish to copy files from the GitHub to your local repository.  You use fork to make changes on the repository in the GitHub.
