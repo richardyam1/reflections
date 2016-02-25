@@ -1,32 +1,38 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
 
-A: It creates a structure where you can store your commits for the files you're working on.  Doing this would allow us to manage files for different projects.  
+A: It creates a structure where you can store your commits for the files you're working on.  Doing this would allow us to manage files for different projects. 
+
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 A:  The staging area is where the user groups files to be committed together.  This allows you to pick and choose which files you want to commit to the repository.  
 
+
 Q: How can you use the staging area to make sure you have one commit per logical change?
 
-A:  You add files related to the logical change to the staging area before committing them. 
+A:  You add files related to the logical change to the staging area before committing them.
+
 
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 A:  Branches allows you to experiment with your program while keeping a working version of it around.  This is done by branching it out to an experimental branch.  You then later merge that experimental branch with the master branch.  
 
+
 Q: How do the diagrams help you visualize the branch structure?
 
 A: A diagram lets us more easily see the branches and it's parent.  It gives an overview the purpose of each branch.  
+
 
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 A: The commits in the two branches merge together.  It represented in the diagram 
 
-Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?  (Need more research.  Don't know how to merge manually.)
 
 A:
 Pro: 
 Saves time
 
 Con: 
-Sometimes you want to have control over when to commit.
+Sometimes you want to have control over when and how you want to merge.

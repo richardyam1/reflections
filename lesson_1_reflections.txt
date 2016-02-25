@@ -7,6 +7,7 @@ Q: How could having easy access to the entire history of a file make you a more 
 
 A:  Having an older version available can help a person debug the newer version.  If necessary, they can revert back to the old version
 
+
 Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
 
 A: 
@@ -22,10 +23,17 @@ Q: Why do you think some version control systems, like Git, allow saving multipl
 
 A:  In Git, the files can be linked together so that a change in one file can affect the others.  Google docs has no way of knowing if multiple files are linked to one another.  
 
+
 Q: How can you use the commands git log and git diff to view the history of files?
 
 A:  You use git log to see the pervious changes along with the comments made.  You use git diff to compare what has changed from the previous versions.  
 
+
 Q: How might using version control make you more confident to make changes that could break something?
 
 A:  Version control saves an older version of your code.  So it the change breaks something, you have something you can fall back on.  
+
+
+Q: Now that you have your workspace set up, what do you want to try using Git for?
+
+A: To help me with my coding.  
