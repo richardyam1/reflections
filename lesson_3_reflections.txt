@@ -19,3 +19,18 @@ You would use branching when you want to work on feature for a code without modi
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 
 A: So that you can work on it locally before pushing it to GitHub.
+
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A: I could email the code and also explain the changes I have made.  It's easier to use Git and GitHub as it would keep track of every change your made, including ones you may forget to mention.  
+
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A:  Working in a seperate branch allows you to work on your code while maintaining a working version of it in the master branch.  Once you're sure the seperate branch works, you can then merge it with the master branch.  This is useful when collaborating with many people. 
+
+You would make changes in the master branch if the changes are relatively.    
+
+
+
